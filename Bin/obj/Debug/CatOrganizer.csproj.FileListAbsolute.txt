@@ -1,0 +1,8 @@
+D:\Develop\GitHib\organizer\bin\Debug\CatOrganizer.exe.config
+D:\Develop\GitHib\organizer\bin\Debug\CatOrganizer.exe
+D:\Develop\GitHib\organizer\bin\Debug\CatOrganizer.pdb
+D:\Develop\GitHib\organizer\bin\obj\Debug\CatOrganizer.csprojResolveAssemblyReference.cache
+D:\Develop\GitHib\organizer\bin\obj\Debug\CatOrganizer.MainForm.resources
+D:\Develop\GitHib\organizer\bin\obj\Debug\CatOrganizer.csproj.GenerateResource.Cache
+D:\Develop\GitHib\organizer\bin\obj\Debug\CatOrganizer.exe
+D:\Develop\GitHib\organizer\bin\obj\Debug\CatOrganizer.pdb
