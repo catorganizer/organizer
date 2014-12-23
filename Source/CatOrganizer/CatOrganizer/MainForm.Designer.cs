@@ -7,6 +7,7 @@ namespace CatOrganizer
 		/// Designer variable used to keep track of non-visual components.
 		/// </summary>
 		private System.ComponentModel.IContainer components = null;
+		private System.Windows.Forms.MonthCalendar monthCalendar1;
 		
 		/// <summary>
 		/// Disposes resources used by the form.
@@ -29,14 +30,25 @@ namespace CatOrganizer
 		/// </summary>
 		private void InitializeComponent()
 		{
+			this.monthCalendar1 = new System.Windows.Forms.MonthCalendar();
 			this.SuspendLayout();
+			// 
+			// monthCalendar1
+			// 
+			this.monthCalendar1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+			this.monthCalendar1.Location = new System.Drawing.Point(105, 94);
+			this.monthCalendar1.MaxSelectionCount = 1;
+			this.monthCalendar1.Name = "monthCalendar1";
+			this.monthCalendar1.TabIndex = 0;
 			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(330, 283);
+			this.ClientSize = new System.Drawing.Size(387, 336);
+			this.Controls.Add(this.monthCalendar1);
 			this.Name = "MainForm";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "CatOrganizer";
 			this.ResumeLayout(false);
 
